@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\hexa2bin.c">
+    <ClCompile Include="..\C_ASSIGNMENT11\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\C_ASSIGNMENT11\add.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\C_ASSIGNMENT11\mul.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\C_ASSIGNMENT11\sub.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

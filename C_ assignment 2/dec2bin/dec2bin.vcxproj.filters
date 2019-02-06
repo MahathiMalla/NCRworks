@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\hexa2bin.c">
+    <ClCompile Include="dec2bin.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
