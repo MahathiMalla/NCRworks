@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\cdac\source\repos\mahathimalla\ncrworks\c assignment 1\c_assignment11\c_assignment11\main.c(6): warning C4013: 'add' undefined; assuming extern returning int
+c:\users\cdac\source\repos\mahathimalla\ncrworks\c assignment 1\c_assignment11\c_assignment11\main.c(8): warning C4013: 'sub' undefined; assuming extern returning int
+c:\users\cdac\source\repos\mahathimalla\ncrworks\c assignment 1\c_assignment11\c_assignment11\main.c(10): warning C4013: 'mul' undefined; assuming extern returning int
+  calculator.vcxproj -> C:\Users\cdac\Source\Repos\MahathiMalla\NCRworks\C assignment 1\C_ASSIGNMENT11\Debug\calculator.exe
+  calculator.vcxproj -> C:\Users\cdac\Source\Repos\MahathiMalla\NCRworks\C assignment 1\C_ASSIGNMENT11\Debug\calculator.pdb (Partial PDB)
