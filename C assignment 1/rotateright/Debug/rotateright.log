@@ -1,0 +1,6 @@
+﻿  rotateright.c
+c:\users\cdac\source\repos\mahathimalla\ncrworks\c assignment 1\rotateright\rotateright.c(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cdac\source\repos\mahathimalla\ncrworks\c assignment 1\rotateright\rotateright.c(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cdac\source\repos\mahathimalla\ncrworks\c assignment 1\rotateright\rotateright.c(33): warning C4013: 'getch' undefined; assuming extern returning int
+  rotateright.vcxproj -> C:\Users\cdac\Source\Repos\MahathiMalla\NCRworks\C assignment 1\C_ASSIGNMENT11\Debug\rotateright.exe
+  rotateright.vcxproj -> C:\Users\cdac\Source\Repos\MahathiMalla\NCRworks\C assignment 1\C_ASSIGNMENT11\Debug\rotateright.pdb (Partial PDB)
